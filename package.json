@@ -14,7 +14,9 @@
   "dependencies": {
     "cross-spawn-async": "^2.0.0",
     "elegant-spinner": "^1.0.1",
+    "funcunit": "^3.0.0",
     "install": "^0.2.3",
+    "jquery": "^2.1.4",
     "launchpad": "^0.4.9",
     "log-update": "^1.0.2",
     "minunit": "^1.0.0",
@@ -25,6 +27,7 @@
     "promise-one-at-a-time": "^1.0.1",
     "stream-when": "^1.0.0",
     "tmp": "0.0.28",
+    "websocket": "^1.0.22",
     "yargs": "^3.29.0"
   }
 }
