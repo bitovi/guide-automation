@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "guide": "bin/guide.js"
+  },
   "author": "Bitovi",
   "license": "MIT",
   "dependencies": {
@@ -21,6 +24,7 @@
     "promise-child": "^1.0.0",
     "promise-one-at-a-time": "^1.0.1",
     "stream-when": "^1.0.0",
-    "tmp": "0.0.28"
+    "tmp": "0.0.28",
+    "yargs": "^3.29.0"
   }
 }
