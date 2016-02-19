@@ -1,6 +1,6 @@
 {
   "name": "guide-automation",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "All the tools needed to build guides",
   "main": "lib/guide-test.js",
   "scripts": {
