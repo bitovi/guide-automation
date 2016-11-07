@@ -22,7 +22,7 @@
     "cross-spawn-async": "^2.0.0",
     "debug": "^2.2.0",
     "elegant-spinner": "^1.0.1",
-    "funcunit": "^3.0.0",
+    "funcunit": "3.0.0",
     "install": "^0.2.3",
     "jquery": "^2.1.4",
     "launchpad": "^0.4.9",
