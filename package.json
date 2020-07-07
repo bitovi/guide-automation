@@ -30,7 +30,7 @@
     "minunit": "^1.1.1",
     "mocha": "^2.3.4",
     "node-fetch": "^1.3.3",
-    "npm": "^3.3.10",
+    "npm": "^6.14.6",
     "pdenodeify": "^0.1.0",
     "promise-child": "^1.0.0",
     "promise-one-at-a-time": "^1.0.1",
